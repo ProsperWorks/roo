@@ -1,4 +1,8 @@
 ##  Unreleased
+### Changed / Added
+- pulling in PR from https://github.com/Kevinrob:
+  Updated rubyzip version. Now minimal version is 1.3.0. [CVE-2019-16892](https://github.com/rubyzip/rubyzip/pull/403)
+
 
 ##  [2.8.2] 2019-02-01
 ### Changed/Added
